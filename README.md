@@ -10,7 +10,7 @@ The current prototype displays a colored voxel map, a green trajectory, object l
 
 **Status:** Experimental prototype  
 **Platform:** Android  
-**Download:** GitHub Releases  
+**Download:** [Peripersonal AR v1.4.2](https://github.com/tomaszwi66/Peripersonal-AR/releases/tag/v1.4.2)
 **Distribution:** APK only. Source code is not included.
 
 ## What you can see
